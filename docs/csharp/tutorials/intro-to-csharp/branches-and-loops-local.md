@@ -152,7 +152,7 @@ namespace BranchesAndLoops
             {
                 Console.WriteLine("The answer is not greater than 10");
             }
-
+            int c = 4;
             if ((a + b + c > 10) && (a > b))
             {
                 Console.WriteLine("The answer is greater than 10");
